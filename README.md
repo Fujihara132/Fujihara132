@@ -1,4 +1,8 @@
-## Hi there 👋
+## 自己紹介
+
+1年IT藤原瑞月
+
+好きなうどんの種類　:肉うどん
 
 <!--
 **Fujihara132/Fujihara132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
